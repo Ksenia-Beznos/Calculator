@@ -3,7 +3,7 @@
 ### Описание
 Pet-проект для закрепления навыков по JavaScript, CSS и HTML.
 
-![Главная страница](images/mainPage.png)
+![Alt-шапка](/images/%D0%9A%D0%B0%D0%BB%D1%8C%D0%BA%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80.png)
 
 ### Функционал
 * Сложение и вычитание чисел;
@@ -24,7 +24,6 @@ Pet-проект для закрепления навыков по JavaScript, C
 https://ksenia-beznos.github.io/Calculator/
 
 **Автор сайта**: Ксения Безнос.
-
 
 
 
